@@ -1,0 +1,4 @@
+﻿  소스.c
+E:\하승훈\programming\C\Building\Building\소스.c(4,7): warning C4013:  'build'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+E:\하승훈\programming\C\Building\Building\소스.c(4,7): warning C4013: E:\하승훈\programming\C\Building\Building\소스.c(62) : warning C4716: 'build': 값을 반환해야 합니다.
+  Building.vcxproj -> E:\하승훈\programming\C\Building\Debug\Building.exe
